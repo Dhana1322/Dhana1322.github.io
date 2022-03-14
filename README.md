@@ -3,7 +3,7 @@
 
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<h1>Marvel Fans</h1>
+<p>Welcome to Fan article.</p>
 </body>
 </html>
