@@ -4,7 +4,9 @@
 <html>
 <body>
 <h1>Marvel Fans 
-  <link rel="stylesheet" href="https://example.com/css/main.css">
+  <link rel="stylesheet" href="https://www.w3schools.com/css/main.css">
+  
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
   </h1>
 <p>Welcome to Fan article.</p>
   
